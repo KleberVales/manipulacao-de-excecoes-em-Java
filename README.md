@@ -12,7 +12,7 @@ Você deve receber dois números inteiros como entrada e calcular o resultado da
   Saída 0:\
     ![imagens/img2.png](imagens/img2.png)
 
-  * Entrada 1:\
+* Entrada 1:\
     ![imagens/img3.png](imagens/img3.png)
 
    Saída 1:\
