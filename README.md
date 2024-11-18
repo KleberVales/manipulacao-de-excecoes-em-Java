@@ -6,6 +6,6 @@ Você deve receber dois números inteiros como entrada e calcular o resultado da
 
 ### Exemplos de Entrada/Saída:
 
-* Entrada 0:
+* Entrada 0:\
   ![imagens/img1.png](imagens/img1.png)
 
