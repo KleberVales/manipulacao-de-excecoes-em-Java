@@ -9,7 +9,7 @@ Você deve receber dois números inteiros como entrada e calcular o resultado da
 * Entrada 0:\
   ![imagens/img1.png](imagens/img1.png)
 
-  Saída 0:
+  Saída 0:\
     ![imagens/img2.png](imagens/img2.png)
 
 
